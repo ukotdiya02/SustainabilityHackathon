@@ -2,6 +2,7 @@
 This repositary is created to participate in sustainability hackathon orgranized by Techgig and Microsoft. 
 I had created prototype to generate Sustainability report for a NET ZERO building 
 Data is collected using IoT central and which is exported to Microsft sustainability manager for generating analysis and reports  
+
 **Idea stage** - 
 PLEDGE_TO_PROGRES_Microsoft_Sustainability_Uttam.pptx - Contains initially submitted idea  
 
