@@ -10,4 +10,4 @@ PLEDGE_TO_PROGRES_Microsoft_Sustainability_Uttam.pptx - Contains initially submi
 1. Prototype- Concept and architecture.pptx - Contains information about concept and arachitecture of prototype
 2. Demo of Proto.pptx - Contains demo of the application 
 3. Video Demo for Prototype .mp4 - Video of demo where I explain the appplication flow
-4. Purchased electricity 5-13-2023 6-46-15 PM.xlsx - Excel file used for data import in Microsoft sustainability manager
+4. /Data folder - Contain Reference data and Purchased electricity data
